@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_websearch">Websearch</string>
+    <string name="text_endPointer">Endpointer:</string>
+    <string name="radio_endPointerShort">Short</string>
+    <string name="radio_endPointerLong">Long</string>
+    <string name="radio_endPointerNone">None</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_startTts">Get TTS</string>
+    <string name="button_startDictation">Dictate</string>
+    <string name="title_dictation">Test Dictation</string>
+    <string name="title_tts">Test TTS</string>
+    <string name="hello">Hello World, SampleVoiceApp!</string>
+    <string name="app_name">Sample Voice App</string>
+    <string name="title_main">Choose a feature to test</string>
+    <string name="button_dictation">Dictation</string>
+    <string name="button_tts">TTS</string>
+    <string-array name="arr_ttsVoices">
+        <item>Samantha</item>
+        <item>Tom</item>
+    </string-array>
+</resources>
